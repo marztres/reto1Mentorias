@@ -2,3 +2,5 @@
 Reto #1 de mentorias Coding for life
 
 Proyecto hecho por gonzalo
+
+Proyecto hecho por akalicol
